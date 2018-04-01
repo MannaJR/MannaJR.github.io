@@ -7,7 +7,8 @@ categories: jekyll update
 ---
 
 
-Here you can go through all my designs related to graphics, photography, typography and many more.
+This took me quite a lot of time. Hope you guys like it. <br/>
+Suggestions for a next project can be written down in the comment section.
  <img width="695" alt="joker pixelart" src="https://user-images.githubusercontent.com/36826872/38171918-91694f62-35c0-11e8-8a86-1a32449e27b2.png">
 
 You can check my [Facebook][Facebook] account for more info on how to get better designs. If you have questions, you can ask them on [Twitter][Twitter].
